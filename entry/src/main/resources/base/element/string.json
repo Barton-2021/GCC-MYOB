@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GCC智管"
+    },
+    {
+      "name": "camera_desc",
+      "value": ""
+    },
+    {
+      "name": "fuzzy_location_permission",
+      "value": ""
+    },
+    {
+      "name": "location_permission",
+      "value": ""
+    },
+    {
+      "name": "background_location_permission",
+      "value": ""
+    },
+    {
+      "name": "running_background",
+      "value": ""
+    },
+    {
+      "name": "get_network_info",
+      "value": ""
+    },
+    {
+      "name": "internet_switch",
+      "value": ""
+    },
+    {
+      "name": "get_DeepSeek_API",
+      "value": ""
+    }
+  ]
+}

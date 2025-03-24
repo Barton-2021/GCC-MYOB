@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ForgetPassWordPage",
+    "pages/SignUpPage",
+    "pages/MainPage",
+    "pages/MyidPage",
+    "pages/EditIdPage",
+    "pages/AboutPage",
+    "pages/AccountPage",
+    "pages/AssociationPage"
+  ]
+}
